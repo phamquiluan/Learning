@@ -1,12 +1,14 @@
-Deep Learning Comprehension
+# Deep Learning Comprehension
+-----------------------------
 
-Index
 
-* Number recognition using MNIST dataset.
-* Using Git
-* Vim/Tmux Introduction
-* Street View House Number dataset.
-* Emotion recognition
-* Time series dataset
-* Segmentation Problem
+### Index
+
+1. Number recognition using MNIST dataset
+2. Using Git
+3. Vim/Tmux Introduction
+4. Street View House Number dataset
+5. Emotion recognition
+6. Time series dataset
+7. Segmentation Problem
 
